@@ -1,7 +1,6 @@
 # All-in-One
 
 Changes:
-- Remembrance & Tranquil synth icons fix
 - Model for Detection Saber and Frontier of Ultima
 - New "vanilla" stats as follows:
   - 3,1 Defender for FAKE
